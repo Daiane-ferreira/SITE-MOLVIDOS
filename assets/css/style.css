@@ -1,0 +1,54 @@
+
+body{
+    margin: 0%;
+}
+
+a{
+    color: #fff;;
+}
+
+p {
+    text-align: center;
+}
+
+#manchete{
+    font-weight: bold;
+    font-size: 19px;
+    color: rgba(0,0,0,0.05);
+}
+nav ul{
+    padding: 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+
+}
+
+header nav ul li{
+    width: 18%;
+    list-style-type:nome;
+    font-size: 24pt;
+    background: #35d0c7;
+     
+    
+}
+
+
+ figure{
+     text-align: center;
+ }
+
+.linha2{
+display: flex;
+flex-flow: row wrap;
+}
+
+.coluna2-25 {
+font-size: 18pt;
+width: 25%;
+margin: 0 auto;
+padding: 20px;
+
+}
+
+
